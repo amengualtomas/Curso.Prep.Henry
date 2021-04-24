@@ -1,0 +1,49 @@
+/*styles.css */
+
+body {
+	background: lightblue url(https://media-cdn.tripadvisor.com/media/photo-s/17/59/9f/7f/salon-principal.jpg) no-repeat fixed center;
+	background-size: 100%;
+ }
+
+a {
+	background-color: black;
+	color: white;
+}
+h1 {
+	color: white;
+	background-color: black;
+}
+h3 {
+	color: white;
+	background-color: black;
+}
+h4 {
+	color: white;
+	background-color: black;
+}
+
+img {width: 400px;}
+
+.container {
+	
+	margin-top: 10px;
+	display: flex;
+	align-items: center;
+    justify-content: center;
+}
+
+#thirdDiv {
+	width: 500px;
+	height: 600px;
+	background: black;
+	padding: 50px;
+	border: 5px solid rgb(22, 90, 82);
+}
+
+#spanId {
+	font-size: 18px;
+	margin: 50px;
+	color: white;
+	background-color: black;
+}
+
